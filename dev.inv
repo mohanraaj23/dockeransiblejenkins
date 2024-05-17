@@ -1,2 +1,2 @@
-[dev]
+[slave1]
 10.0.2.32 ansible_user=osboxes
