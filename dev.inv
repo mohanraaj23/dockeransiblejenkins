@@ -1,2 +1,2 @@
-[dev]
-10.0.2.12 ansible_user=osboxes
+[slave1]
+10.0.2.12 ansible_user=osboxe
